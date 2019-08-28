@@ -1,2 +1,5 @@
 # Selenium_Python
-Test selenium using python
+
+
+
+Simple example using python and unittest to perform a Login test scenario.
